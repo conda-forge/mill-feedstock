@@ -3,7 +3,7 @@ About mill-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mill-feedstock/blob/main/LICENSE.txt)
 
-Home: https://mill-build.com
+Home: https://mill-build.com/
 
 Package license: MIT
 
